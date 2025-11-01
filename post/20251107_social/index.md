@@ -2,7 +2,7 @@
 title: Weekly Social
 description: Social in the Swingstation
 slug: social
-date: 2025-11-07 21:00:00+0000
+date: 2025-10-07 21:00:00+0000
 image: ../../../assets/img/lindyhop1.png
 categories:
     - Social Dancing
