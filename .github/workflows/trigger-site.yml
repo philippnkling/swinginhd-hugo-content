@@ -8,11 +8,6 @@ jobs:
   notify:
     runs-on: ubuntu-latest
     steps:
-     - name: Check token permissions
-       run: |
-         curl -H "Authorization: token ${{ secrets.SITE_REPO_TOKEN }}" \
-              https://api.github.com/user
-
       - name: Trigger rebuild on site repo
         uses: peter-evans/repository-dispatch@v3
         with:
