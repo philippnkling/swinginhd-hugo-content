@@ -10,7 +10,6 @@ Create a new folder with the name YYYY-MM-DD_<title> or copy one of the existing
 Create or adapt the `index.md` file in the folder and maybe add your own picture and reference it in the header. Don't forget to attribute the picture in the last line.
 
 Template for a new `index.md`
-> ---
 > title: <YOUR TITLE>
 > description: <YOUR DESCRIPTION>
 > date: <YYYY-MM-DD>
