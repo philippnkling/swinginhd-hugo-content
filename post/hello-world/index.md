@@ -7,7 +7,7 @@ image: cover.jpg
 categories:
     - Social Dancing
 tags:
-    - Example Tag
+    - Swing
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
