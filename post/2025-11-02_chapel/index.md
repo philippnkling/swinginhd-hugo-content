@@ -2,7 +2,6 @@
 title: Chapel Swing
 description: Swing dance event in an old chapel. 
 date: 2025-11-02
-slug: 2025-11-02_chapel
 lastmod: 2025-11-01
 image: chapel.png
 categories:
