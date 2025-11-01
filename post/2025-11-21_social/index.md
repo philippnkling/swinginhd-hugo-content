@@ -1,7 +1,6 @@
 ---
 title: Swing Social
 description: Weekly Social in the SwingStation organized by Laura Stahl. 
-slug: 20251121_social
 date: 2025-11-21
 lastmod: 2025-11-01
 image: lindyhop1.jpg
