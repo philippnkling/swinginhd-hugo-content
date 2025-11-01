@@ -1,14 +1,15 @@
 ---
 title: Swing Social
-description: Weekly Social in the **SwingStation** organized by Laura Stahl. 
-date: 2025-11-07 21:00:00+0000
+description: Weekly Social in the SwingStation organized by Laura Stahl. 
+slug: 20251107_social
+date: 2025-11-07
 image: lindyhop1.jpg
 categories:
     - Social Dancing
 tags:
     - Private
 ---
-- Adress (Kurfürsten-Anlage 58, 69115 Heidelberg
+- Address (Kurfürsten-Anlage 58, 69115 Heidelberg
 - Cost: Entry is a sliding scale between 3€ and 10€. 
 - Time: Start: 9 p.m., End: 11 p.m.
 

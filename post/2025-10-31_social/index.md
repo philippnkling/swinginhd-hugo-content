@@ -1,6 +1,7 @@
 ---
 title: Halloween Social
 description: Halloween themed weekly social in the **SwingStation** organized by Laura Stahl. 
+slug: 2025-10-31_social
 date: 2025-10-31
 lastmod: 2025-11-01
 image: pumpkin.jpg
@@ -13,7 +14,7 @@ tags:
 
 🎃Spooky Halloween Social 🎃 More than welcome to wear a costume!
 
-- Adress (Kurfürsten-Anlage 58, 69115 Heidelberg
+- Address (Kurfürsten-Anlage 58, 69115 Heidelberg
 - Cost: Entry is a sliding scale between 3€ and 10€. 
 - Time: Start: 9 p.m., End: Midnight...
 
