@@ -19,4 +19,4 @@ tags:
   * Taster at 4 p.m.
   * Social Dancing from 5 p.m. until about 10 p.m.
   
-> Photo by [Black Archives](https://www.instagram.com/blackarchives.co/p/DI5AOimOhZN) on [Instagram](https://www.instagram.com/)
+> Photo by [Rhein-Neckar-Zeitung](www.rnz.de).

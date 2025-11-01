@@ -14,4 +14,4 @@ tags:
 - Cost: 10€ (?) 
 - Time: Start: 8 p.m., End: approx. 11 p.m.
 
-> Photo by [Black Archives](https://www.instagram.com/blackarchives.co/p/DI5AOimOhZN) on [Instagram](https://www.instagram.com/)
+> Photo by GypsyJazz 'n Swing Jam Rhein-Neckar on [Facebook](https://www.facebook.com/)
