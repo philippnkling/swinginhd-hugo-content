@@ -1,10 +1,10 @@
 ---
 title: Chapel Swing
-description: Dance event in the old chapel. 
+description: Swing dance event in an old chapel. 
 date: 2025-11-02
 slug: 2025-11-02_chapel
 lastmod: 2025-11-01
-image: savoy11.png
+image: chapel.webp
 categories:
     - Social Dancing
 tags:
@@ -13,7 +13,7 @@ tags:
 
 
 
-- Address: [Rheinstraße 12/4, 69126 Heidelberg](https://maps.app.goo.gl/eFrTbC3sTxJZrMfc8
+- Address: [Rheinstraße 12/4, 69126 Heidelberg](https://maps.app.goo.gl/eFrTbC3sTxJZrMfc8)
 - Cost: Donation based
 - Time: 
   * Taster at 4 p.m.

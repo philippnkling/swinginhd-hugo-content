@@ -1,6 +1,6 @@
 ---
 title: Halloween Social
-description: Halloween themed weekly social in the **SwingStation** organized by Laura Stahl. 
+description: Halloween themed weekly social in the SwingStation organized by Laura Stahl. 
 slug: 2025-10-31_social
 date: 2025-10-31
 lastmod: 2025-11-01
