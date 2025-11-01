@@ -2,7 +2,7 @@ name: Trigger site rebuild
 
 on:
   push:
-    branches: [master]  # or whatever branch you use for content
+    branches: [main]  # or whatever branch you use for content
 
 jobs:
   notify:
