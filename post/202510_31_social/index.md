@@ -1,7 +1,7 @@
 ---
 title: Halloween Social
 description: Halloween themed weekly social in the **SwingStation** organized by Laura Stahl. 
-date: 2025-11-21
+date: 2025-10-31
 lastmod: 2025-11-01
 image: pumpkin.jpg
 categories:
