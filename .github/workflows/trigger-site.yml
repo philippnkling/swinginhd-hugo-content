@@ -3,6 +3,8 @@ name: Trigger site rebuild
 on:
   push:
     branches: [main]  # or whatever branch you use for content
+    paths:
+      - 'post/**'
 
 jobs:
   notify:
