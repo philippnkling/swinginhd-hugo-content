@@ -1,9 +1,9 @@
 ---
 title: Swingin Charlie
-description: Swing festival by [Swing in Karlsruhe e.V.](https://swinginkarlsruhe.de). 
+description: Swing festival by Swing in Karlsruhe e.V.. 
 date: 2025-11-28
 lastmod: 2025-11-02
-image: appendiexie_mmm.jpg
+image: appendixie_mmm.jpg
 categories:
     - Social Dancing
     - Dance class
@@ -11,7 +11,7 @@ tags:
     - Karlsruhe
 ---
 
-[Swing festival in Karlsruhe](https://swingincharlie.de)
+[Swing festival in Karlsruhe](https://swingincharlie.de) by [Swing in Karlsruhe e.V.](https://swinginkarlsruhe.de)
 
 - Address: [Canisiushaus](https://swingincharlie.de/locations#canisius) and other locations in Karlsruhe
 - Cost: depending on the classes chosen [Registration](https://swingincharlie.de/signup/)
