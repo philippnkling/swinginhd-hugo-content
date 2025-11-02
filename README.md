@@ -15,9 +15,9 @@ Here you have two options: create an event with or without an image. The process
 
 ### b) Event with image
 **Careful, please only use images that you have rights for or which are available under a free licence**
-1. In the [post](https://github.com/philippnkling/swinginhd-hugo-content/tree/main/post) folder on your computer, create a new folder with the name YYYY-MM-DD_name or copy the [template folder](https://github.com/philippnkling/swinginhd-hugo-content/tree/main/templates/event-with-image].
-2. Create or adapt the `index.md` file similar to the step 3 in the procedure of an event without an image.
-3. Copy one of the [available images](https://github.com/philippnkling/swinginhd-hugo-content/tree/main/img) or add your own picture to the folder and reference it in the header (`image: <filename>`). Don't forget to attribute the picture in the last line. Suggestions on how to 
+1. In the [post](https://github.com/philippnkling/swinginhd-hugo-content/tree/main/post) folder on your computer, create a new folder with the name `YYYY-MM-DD_name` or copy the [template folder](https://github.com/philippnkling/swinginhd-hugo-content/tree/main/templates/event-with-image).
+2. Create or adapt the `index.md` file similar to the step 3 in the procedure of an event without an image (see above).
+3. Copy one of the [available images](https://github.com/philippnkling/swinginhd-hugo-content/tree/main/img) or add your own picture to the folder and reference it in the header (`image: <filename>`). Don't forget to attribute the picture in the last line in the markdown file (see below). Suggestions on how to attribute images can be found in this [README](https://github.com/philippnkling/swinginhd-hugo-content/blob/main/img/README.md).
 
 ## 4. Push
 This depends a little bit on the cloning/authentication method. If you set up ssh-access you should be able to use these 3 commands in your terminal:
