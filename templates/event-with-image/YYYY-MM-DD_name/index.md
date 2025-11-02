@@ -18,3 +18,5 @@ tags:
 - Time:
   * Start:
   * End:
+  
+> Photo by [<SOURCE>](<SOURCE-URL>) on [<OMAIN>](<DOMAIN>).
