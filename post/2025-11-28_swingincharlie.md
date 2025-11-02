@@ -3,7 +3,6 @@ title: Swingin Charlie
 description: Swing festival by Swing in Karlsruhe e.V.. 
 date: 2025-11-28
 lastmod: 2025-11-02
-image: appendixie_mmm.jpg
 categories:
     - Social Dancing
     - Dance Class
