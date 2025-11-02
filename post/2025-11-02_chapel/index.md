@@ -7,7 +7,7 @@ image: chapel.png
 categories:
     - Social Dancing
 tags:
-    - Private
+    - Heidelberg
 ---
 
 - Address: [Rheinstraße 12/4, 69126 Heidelberg](https://maps.app.goo.gl/eFrTbC3sTxJZrMfc8)

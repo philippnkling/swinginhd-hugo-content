@@ -1,7 +1,8 @@
 ---
 title: Swing Social
-description: Weekly Social in the SwingStation organized by Laura Stahl. 
-date: 2025-11-07
+description: Weekly Social in the SwingStation organized by [Laura](https://www.laurastahl.de/). 
+date: 2025-11-28
+lastmod: 2025-11-02
 image: lindyhop1.jpg
 categories:
     - Social Dancing

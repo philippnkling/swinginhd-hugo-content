@@ -7,7 +7,7 @@ image: lindyhop1.jpg
 categories:
     - Social Dancing
 tags:
-    - Private
+    - Heidelberg
 ---
 - Address (Kurfürsten-Anlage 58, 69115 Heidelberg
 - Cost: Entry is a sliding scale between 3€ and 10€. 

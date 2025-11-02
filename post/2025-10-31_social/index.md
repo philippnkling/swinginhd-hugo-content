@@ -7,8 +7,7 @@ image: pumpkin.jpg
 categories:
     - Social Dancing
 tags:
-    - Private
-    - Costume
+    - Heidelberg
 ---
 
 🎃Spooky Halloween Social 🎃 More than welcome to wear a costume!
