@@ -3,7 +3,7 @@ title: "'Boost Your Solo' Workshop"
 description: Two day Solojazz workshop by [SwingStep](https://swingstep.com)
 date: 2025-11-22
 lastmod: 2025-11-02
-image: savoy9.png
+image: kris.jpg
 categories:
     - Dance class
 tags:
@@ -21,4 +21,4 @@ During the classes, Kris will share her latest understanding of the dance to spa
   * Start: 2:00 p.m.
   * End: 5:30 p.m.
 
-> Photo by [Black Archives](https://www.instagram.com/blackarchives.co/p/DIJZOtnuF7w) on [Instagram](https://www.instagram.com/)
+> Photo by [SwingStep](https://image.swingstep.net/img/v3/media.swingstep.net/q=90&w=1024&h=683&fit=max/swingstep.com/www/Website%20Images/Kris-Dancing-LindyShock2016.jpg)
