@@ -1,5 +1,5 @@
 ---
-title: "Boost Your Solo" Workshop
+title: "'Boost Your Solo' Workshop"
 description: Two day Solojazz workshop by [SwingStep](https://swingstep.com)
 date: 2025-11-22
 lastmod: 2025-11-02
